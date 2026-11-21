@@ -1,6 +1,6 @@
 # Dénes Gergő
 
-Personal website for my CV, research projects, open-access papers, and teaching materials.
+Personal website for my CV, research, open-access papers, and teaching materials.
 
 ## Local preview
 
